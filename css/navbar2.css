@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    font-family: 'Amiri',serif    
+}
+/*.clearfix{
+    clear: both
+}*/
+/*.container{
+    width:100%;
+}*/
+/* START LINKS */
+.container .links {
+    width: 20%;
+    float: right;
+    border: 2px solid #18b247;
+    margin-top: 50px;
+    background-color: #cfe7eca6;
+    height:1425px ;
+}
+.container .links .part ul hr{
+    border-color: black;
+}
+.container .links .space{
+    height:25px;
+    background-color: #8fb3bd
+}
+.container .links .part a{
+    color: #0ca04a;
+    font-size: 25px
+}
+.container .links .part ul li a{
+    color: black;
+    font-size: 15px
+        
+}
+.container .links ul hr li{
+    background-color: red
+}
+
+/* END OF LINKS */
+/* START CONTENT */
+.container .content{
+    width: 79%;
+    float: right;
+    margin-right: 10px
+        
+}
+/* START IMG */
+.container .content .header{
+    margin-top: 50px
+}
+.container .content .header h2{
+    background-color:#cfe7eca6;
+    margin-left: 15px;
+    padding-right: 10px;
+    padding-top: 10px;
+    color: #0ca04a; 
+}
+.container .content .container .info {
+    width:900px
+}
+.container .content .container .info h2{
+    height:30px;
+    width: 100%;
+    background-color:#cfe7eca6;
+    margin-left: 15px;
+    padding-right: 10px;
+    padding-top: 10px;
+    color: #0ca04a; 
+}
+.container .content .container .info h3{
+    background-color:#cfe7eca6;
+    margin-left: 15px;
+    padding-right: 10px;
+    color: #0ca04a;
+}
+.container .content .container .info .space{
+     height:25px;
+}
+.container .content .container .info p:first-of-type{
+    color: black;
+    font-size: 30px; 
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0
+}
+.container .content .container .info p{
+    color: black; 
+}
+.container .content .container .info img{
+    width: 70%;
+    border: 2px solid #18b247;
+    margin-right: 150px;
+    margin-top: 20px
+}
+.container .content .container .info h3{
+    font-weight: lighter;
+    padding-bottom: 10px;
+    height: 20px
+}
+.container .content .container .info h5{
+    color: #0ca04a
+ }
+
+/*.container .content .container .image h2:last-of-type{
+    border: none;
+    text-align: center;
+    background-color: white
+}*/
+/*.container .content .container .relatedtopics {
+    width: 100%
+}
+.container .content .container .relatedtopics{
+    width: 33.333333%
+}*/
+/* START MY FRAMEWORK */
+/*h2, h3{
+    background-color:#cfe7eca6;
+    margin-left: 15px;
+    padding-right: 10px;
+    padding-top: 10px;
+    color: #0ca04a; 
+;
+  /*  border: 1px solid #18b247;*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,135 @@
+body{
+    
+    padding: 0;
+    margin-top: 70px;
+    direction: rtl;
+    
+}
+.ovrlay{
+    background-color: #ffffff85;
+}
+
+.head 
+{
+   padding: 30px;
+   opacity: 0.9;
+}
+.head h2
+{
+    font-family: 'Amiri', serif;
+    color: #127110;
+    font-size: 40px;
+    font-weight: bold;
+    padding-right: 30px;
+   
+}
+
+
+ 
+.container .book 
+{
+    font-family: 'Amiri', serif;
+    height: 830px;
+    float: left;
+    width: 300px;
+    margin-left: 30px;
+    background-color: #30962e;
+    
+}
+
+.containr .book h3
+{
+    
+    padding-right: 50px;
+    font-size:30px;
+    color: black;
+   
+}
+.container .book ul
+{
+    list-style: none;
+}
+.container .book ol li a
+{
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+   
+}
+.container .pge
+{
+    font-family: 'Amiri', serif;
+    width: 950px;
+    margin-right: 30px;
+    
+    
+}
+.container .pge .definition h5
+{
+    
+    padding-top: 20px;
+    font-size: 30px;
+    color: #127110;
+}
+.container .pge .definition
+{
+    
+    font-size: 29px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    background-color: #bbd5ff;
+    border: 2px solid darkgreen;
+    
+}
+.container .pge .topic h5
+{
+    
+    padding-top: 20px;
+    font-size: 30px;
+    color: #127110;
+}
+.container .pge .topic 
+{
+    
+    font-size: 25px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    background-color: #bbd5ff;
+    margin-top: 10px;
+    border: 2px solid darkgreen;
+   
+}
+.container .pge .topic ol li a
+{
+
+    text-decoration: none;
+    color: black;
+}
+
+.container .question  h2
+{
+    font-family: 'Amiri', serif;
+    padding-top: 20px;
+    font-size: 25px;
+    color: #127110;
+}
+.container .question  h5
+{
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: 'Amiri', serif;
+    color: #127110;
+    
+}
+.container .question 
+{   
+    font-size: 25px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+/*    margin-top: 100px;*/
+    margin: 25px;
+    background-color: #bbd5ff;
+    border: 2px solid darkgreen;
+    font-family: 'Amiri', serif;
+}
+

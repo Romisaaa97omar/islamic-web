@@ -1,0 +1,194 @@
+
+/* start body*/
+body{
+
+	padding: 0;
+	margin-top: 70px;
+	height: 100%;
+    font-weight: bold;
+	font-family: 'Amiri', serif;
+    font-size: 20px;
+
+}
+.navbar{
+   width: 100%;
+   height: 70px;
+   padding: 10px  0 0 0;
+
+}
+.nav>li>a:focus, .nav>li>a:hover{
+	background: unset;
+}
+.navbar-nav > li > .dropdown-menu{
+	background-color: #fff;
+
+    border-bottom: : 1px solid #3c89c1;
+    min-width: 0px;
+}
+.navbar-nav{
+    float: right;
+}
+.navbar-nav li a:hover{
+	color: #888;
+}
+.navbar-nav > li > a{
+	color: #127110 ;
+    padding: 25px;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: 'Lateef', cursive;
+
+}
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand
+{
+	padding: 5px 15px;
+}
+/*Active Link*/
+ul> li > a
+{
+	color: #5246c1;
+	padding: 25px ;
+	font-size: 16px;
+	font-weight: bold;
+}
+.dropdown-menu > li > a
+{
+	color: #127110;
+
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lateef', cursive;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus
+{
+  background-color: #127110;
+  -webkit-transition: 1s ease;
+}
+
+
+@media (min-width: 768px) {
+  .navbar-nav {
+    float: left;
+    margin: 0;
+}
+.navbar-nav > li {
+    float: right;
+}
+.navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+}
+.navbar-nav{
+    float: none;
+    text-align: center;
+}
+.navbar-nav li{
+    display: inline-block;
+    float: right;
+}
+
+#dropdownid ul li {
+    float: right;
+    padding-right: 20px;
+    border-bottom: 1px solid #fff;
+}
+
+.logo{
+    padding-top: 20px;
+}
+.logo a img{
+    width: 100px;
+    display: inline-block;
+    margin: auto;
+
+}
+.logo h2{
+    color: #127110;
+    font-family: 'Amiri', serif;
+    display: block;
+    margin: 0;
+}
+.logoclass{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 70px;
+    z-index: 99999;
+    margin-left: 30px;
+}
+.top{
+    float: right;
+    background-color: white;
+    padding-bottom: 0;
+    height: 70px;
+}
+
+.containerPage {
+ margin-right: 60px;
+    margin-left: 60px;
+}
+.quran_content{
+	
+    margin:30px;
+    height: 1170px;
+}
+.quran_content h1{	
+    
+        text-align: center;
+ 	font-weight:bold;
+        color:#127110;
+	margin-bottom:20px;
+
+}
+
+.video{
+	height:350px;
+    width:560px;
+	overflow: hidden; 
+	float: right;
+	border:2px solid #127110;
+	border-radius: 15px;
+	margin-bottom: 30px;
+}
+.info{
+	width: 40%;
+	height: 350px;
+	background-color: #fff;
+	border: 2px solid #127110;
+	border-radius: 15px;
+	text-align:center;
+ 	font-weight: bold;
+    color:rgba(33, 34, 57, 0.89);
+	float:left;
+	overflow: hidden;
+	margin-bottom: 30px;
+	padding: 8px;
+}
+
+.info h2{
+	font-size: 22px;
+	font-weight: bold;
+}
+.info p{
+	font-weight: normal;
+	text-align: right;
+	font-size: 18px;
+}
+.info button{
+	width:110px;
+		height:40px;
+	background-color:#009146 ;
+	border-radius: 12px;
+}
+.info button a{
+
+	color: #fff;
+	text-decoration: none;
+	font-size: 14px;
+}
+.info button:hover{
+	background-color: #3987ac;
+
+}
